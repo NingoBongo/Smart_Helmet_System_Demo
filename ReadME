@@ -1,0 +1,27 @@
+# Smart Helmet Alcohol Detection System
+
+A safety-focused smart helmet prototype developed using Arduino and alcohol sensors to detect alcohol presence in rider breath and simulate ignition prevention.
+
+## Features
+- Alcohol detection using MQ sensor
+- Arduino-based control system
+- Ignition lock simulation
+- Safety-oriented embedded prototype
+
+## Components Used
+- Arduino Uno
+- MQ Alcohol Sensor
+- LEDs
+- Breadboard
+- Jumper wires
+
+## My Contribution
+- Sensor integration
+- Prototype setup
+- Testing and demonstration
+
+## Project Images
+(Add images below)
+
+## Demo Video
+(Add YouTube link)
